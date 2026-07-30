@@ -1,4 +1,4 @@
-# Azure to AWS and GCP Service Mapping
+# Cloud Services
 
 ## AI and Machine Learning
 
